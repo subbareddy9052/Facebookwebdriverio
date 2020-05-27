@@ -1,0 +1,56 @@
+{
+  "uid" : "f9284f83f3530497",
+  "name" : "Log into appplication",
+  "fullName" : "Test using Webdriverio.Log into appplication",
+  "historyId" : "b3354c421735186559e07947772acfe5",
+  "time" : {
+    "start" : 1590577046326,
+    "stop" : 1590577136221,
+    "duration" : 89895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testClass",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testMethod",
+    "value" : "Log into appplication"
+  }, {
+    "name" : "package",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9284f83f3530497.json",
+  "parameterValues" : [ "chrome" ]
+}

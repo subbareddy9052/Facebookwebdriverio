@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 27 16:53:08 IST 2020","Wed May 27 16:54:41 IST 2020","92637","","Test using Webdriverio","","Test using Webdriverio","Log into appplication","Log into appplication",""

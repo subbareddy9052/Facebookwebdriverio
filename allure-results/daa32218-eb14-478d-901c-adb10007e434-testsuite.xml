@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1590573533136' stop='1590573634079'>
+    <name>Test using Webdriverio</name>
+    <title>Test using Webdriverio</title>
+    <test-cases>
+        <test-case start='1590573533136' status='passed' stop='1590573634077'>
+            <name>Log into appplication</name>
+            <title>Log into appplication</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

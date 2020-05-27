@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test using Webdriverio",
+    "children" : [ {
+      "name" : "Log into appplication",
+      "uid" : "b4c0bb20aa9fd3a1",
+      "parentUid" : "6486226b4ff718d5acf32d14303ffa4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590578588884,
+        "stop" : 1590578681521,
+        "duration" : 92637
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "6486226b4ff718d5acf32d14303ffa4a"
+  } ]
+}
