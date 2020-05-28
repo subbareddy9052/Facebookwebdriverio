@@ -4,7 +4,7 @@
   "description": "webdriverio with appium",
   "main": "index.js",
   "scripts": {
-    "open-allure": "allure generate --clean && allure open",
+    "open-allure": "allure generate --clean",
     "test": "npx wdio wdio.conf.js && npm run open-allure"
   },
   "author": "subbu",
