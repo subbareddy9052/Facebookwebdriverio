@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "open-allure": "allure generate --clean",
-    "test": "npx wdio wdio.conf.js && npm run open-allure"
+    "test": "npx wdio wdio.conf.js"
   },
   "author": "subbu",
   "license": "ISC",
