@@ -5,13 +5,39 @@
     "name" : "Test using Webdriverio",
     "children" : [ {
       "name" : "Log into appplication",
-      "uid" : "b4c0bb20aa9fd3a1",
+      "uid" : "6750e75fd91c7182",
       "parentUid" : "6486226b4ff718d5acf32d14303ffa4a",
       "status" : "passed",
       "time" : {
-        "start" : 1590578588884,
-        "stop" : 1590578681521,
-        "duration" : 92637
+        "start" : 1591008975994,
+        "stop" : 1591008998925,
+        "duration" : 22931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "HomePage appplication",
+      "uid" : "787f62fc25986b62",
+      "parentUid" : "6486226b4ff718d5acf32d14303ffa4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591008998925,
+        "stop" : 1591009052871,
+        "duration" : 53946
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Logout appplication",
+      "uid" : "fada0db900e975c5",
+      "parentUid" : "6486226b4ff718d5acf32d14303ffa4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591009052871,
+        "stop" : 1591009075722,
+        "duration" : 22851
       },
       "flaky" : false,
       "newFailed" : false,

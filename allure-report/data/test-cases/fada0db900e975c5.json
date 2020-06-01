@@ -1,0 +1,58 @@
+{
+  "uid" : "fada0db900e975c5",
+  "name" : "Logout appplication",
+  "fullName" : "Test using Webdriverio.Logout appplication",
+  "historyId" : "84683acbce4badf35432436c5ff41826",
+  "time" : {
+    "start" : 1591009052871,
+    "stop" : 1591009075722,
+    "duration" : 22851
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testClass",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logout appplication"
+  }, {
+    "name" : "package",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fada0db900e975c5.json",
+  "parameterValues" : [ "chrome" ]
+}

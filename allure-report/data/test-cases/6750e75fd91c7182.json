@@ -1,0 +1,259 @@
+{
+  "uid" : "6750e75fd91c7182",
+  "name" : "Log into appplication",
+  "fullName" : "Test using Webdriverio.Log into appplication",
+  "historyId" : "b3354c421735186559e07947772acfe5",
+  "time" : {
+    "start" : 1591008975994,
+    "stop" : 1591008998925,
+    "duration" : 22931
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testClass",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testMethod",
+    "value" : "Log into appplication"
+  }, {
+    "name" : "package",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d39c5ef421dae84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591007784762,
+        "stop" : 1591007909461,
+        "duration" : 124699
+      }
+    }, {
+      "uid" : "d1a1002c627ad833",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591007540416,
+        "stop" : 1591007709738,
+        "duration" : 169322
+      }
+    }, {
+      "uid" : "55d62cad12e301a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591007082779,
+        "stop" : 1591007175485,
+        "duration" : 92706
+      }
+    }, {
+      "uid" : "8f0532ca561911a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591006708878,
+        "stop" : 1591006806924,
+        "duration" : 98046
+      }
+    }, {
+      "uid" : "47cf6a47bac8607e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590985143247,
+        "stop" : 1590985228785,
+        "duration" : 85538
+      }
+    }, {
+      "uid" : "6236ccc5b9eb7ae5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590821839885,
+        "stop" : 1590821914925,
+        "duration" : 75040
+      }
+    }, {
+      "uid" : "14a6a2085d69d775",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 60000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (C:\\FaceBookMobiletestingwdio\\specs\\Test_runner.js)",
+      "time" : {
+        "start" : 1590744617936,
+        "stop" : 1590744678212,
+        "duration" : 60276
+      }
+    }, {
+      "uid" : "86dc402729f0077a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744458881,
+        "stop" : 1590744510741,
+        "duration" : 51860
+      }
+    }, {
+      "uid" : "7c5fe6858f60a305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744308313,
+        "stop" : 1590744332942,
+        "duration" : 24629
+      }
+    }, {
+      "uid" : "af7b6c6ccc8f2c74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744183131,
+        "stop" : 1590744223275,
+        "duration" : 40144
+      }
+    }, {
+      "uid" : "cf3f22afabaae831",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744063146,
+        "stop" : 1590744102445,
+        "duration" : 39299
+      }
+    }, {
+      "uid" : "f0f298ceba762d2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590743907595,
+        "stop" : 1590743965734,
+        "duration" : 58139
+      }
+    }, {
+      "uid" : "6c7d48370d9dbb8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590648643703,
+        "stop" : 1590648752259,
+        "duration" : 108556
+      }
+    }, {
+      "uid" : "d9d76873537e453f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590647876392,
+        "stop" : 1590647917685,
+        "duration" : 41293
+      }
+    }, {
+      "uid" : "22ddb622af1f3795",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590587432157,
+        "stop" : 1590587489425,
+        "duration" : 57268
+      }
+    }, {
+      "uid" : "b69a446abbf37089",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590587110365,
+        "stop" : 1590587219248,
+        "duration" : 108883
+      }
+    }, {
+      "uid" : "3eaf6fc0220bd35b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590586968479,
+        "stop" : 1590587006042,
+        "duration" : 37563
+      }
+    }, {
+      "uid" : "148f0d1eff457b19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590586776963,
+        "stop" : 1590586880081,
+        "duration" : 103118
+      }
+    }, {
+      "uid" : "c350fc7f2a96de98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590578588884,
+        "stop" : 1590578681521,
+        "duration" : 92637
+      }
+    }, {
+      "uid" : "4f90d052d1e99cf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590577825203,
+        "stop" : 1590577916980,
+        "duration" : 91777
+      }
+    }, {
+      "uid" : "ae7ddcbf47c1345f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590577415409,
+        "stop" : 1590577511569,
+        "duration" : 96160
+      }
+    }, {
+      "uid" : "f629c4f4cb6e4ee0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590577046326,
+        "stop" : 1590577136221,
+        "duration" : 89895
+      }
+    }, {
+      "uid" : "25175fe367cde4c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590576574497,
+        "stop" : 1590576694741,
+        "duration" : 120244
+      }
+    }, {
+      "uid" : "228176ba14f64d4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590576489073,
+        "stop" : 1590576552980,
+        "duration" : 63907
+      }
+    }, {
+      "uid" : "7f93daacb3a12533",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590573533136,
+        "stop" : 1590573634077,
+        "duration" : 100941
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6750e75fd91c7182.json",
+  "parameterValues" : [ "chrome" ]
+}

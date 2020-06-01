@@ -1,0 +1,58 @@
+{
+  "uid" : "14a6a2085d69d775",
+  "name" : "Log into appplication",
+  "fullName" : "Test using Webdriverio.Log into appplication",
+  "historyId" : "b3354c421735186559e07947772acfe5",
+  "time" : {
+    "start" : 1590744617936,
+    "stop" : 1590744678212,
+    "duration" : 60276
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (C:\\FaceBookMobiletestingwdio\\specs\\Test_runner.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. For async tests and hooks, ensure \"done()\" is called; if returning a Promise, ensure it resolves. (C:\\FaceBookMobiletestingwdio\\specs\\Test_runner.js)\n                    at Test.Runnable._timeoutError (C:\\FaceBookMobiletestingwdio\\node_modules\\mocha\\lib\\runnable.js:438:10)\n                    at Timeout.<anonymous> (C:\\FaceBookMobiletestingwdio\\node_modules\\mocha\\lib\\runnable.js:242:24)\n                    at listOnTimeout (internal/timers.js:549:17)\n                    at processTimers (internal/timers.js:492:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testClass",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "testMethod",
+    "value" : "Log into appplication"
+  }, {
+    "name" : "package",
+    "value" : "Test using Webdriverio"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14a6a2085d69d775.json",
+  "parameterValues" : [ "chrome" ]
+}

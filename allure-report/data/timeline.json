@@ -5,20 +5,20 @@
     "name" : "0-0",
     "children" : [ {
       "name" : "Log into appplication",
-      "uid" : "4633caf5ae68d3c",
+      "uid" : "47cf6a47bac8607e",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1590577825203,
-        "stop" : 1590577916980,
-        "duration" : 91777
+        "start" : 1590985143247,
+        "stop" : 1590985228785,
+        "duration" : 85538
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Log into appplication",
-      "uid" : "3bdec216055ee19d",
+      "uid" : "25175fe367cde4c0",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -31,46 +31,72 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Log into appplication",
-      "uid" : "f9284f83f3530497",
+      "uid" : "d9d76873537e453f",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1590577046326,
-        "stop" : 1590577136221,
-        "duration" : 89895
+        "start" : 1590647876392,
+        "stop" : 1590647917685,
+        "duration" : 41293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "HomePage appplication",
+      "uid" : "787f62fc25986b62",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591008998925,
+        "stop" : 1591009052871,
+        "duration" : 53946
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Log into appplication",
-      "uid" : "ada50cb99bd45f7e",
+      "uid" : "6236ccc5b9eb7ae5",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1590576489073,
-        "stop" : 1590576552980,
-        "duration" : 63907
+        "start" : 1590821839885,
+        "stop" : 1590821914925,
+        "duration" : 75040
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Log into appplication",
-      "uid" : "b4c0bb20aa9fd3a1",
+      "uid" : "6c7d48370d9dbb8f",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1590578588884,
-        "stop" : 1590578681521,
-        "duration" : 92637
+        "start" : 1590648643703,
+        "stop" : 1590648752259,
+        "duration" : 108556
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Log into appplication",
-      "uid" : "ff7d852ebcda4450",
+      "uid" : "1d39c5ef421dae84",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591007784762,
+        "stop" : 1591007909461,
+        "duration" : 124699
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "ae7ddcbf47c1345f",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -83,13 +109,260 @@
       "parameters" : [ "chrome" ]
     }, {
       "name" : "Log into appplication",
-      "uid" : "8167defa7932960a",
+      "uid" : "8f0532ca561911a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591006708878,
+        "stop" : 1591006806924,
+        "duration" : 98046
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "55d62cad12e301a0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591007082779,
+        "stop" : 1591007175485,
+        "duration" : 92706
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "22ddb622af1f3795",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590587432157,
+        "stop" : 1590587489425,
+        "duration" : 57268
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "af7b6c6ccc8f2c74",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744183131,
+        "stop" : 1590744223275,
+        "duration" : 40144
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "3eaf6fc0220bd35b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590586968479,
+        "stop" : 1590587006042,
+        "duration" : 37563
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "f629c4f4cb6e4ee0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590577046326,
+        "stop" : 1590577136221,
+        "duration" : 89895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "148f0d1eff457b19",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590586776963,
+        "stop" : 1590586880081,
+        "duration" : 103118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "c350fc7f2a96de98",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590578588884,
+        "stop" : 1590578681521,
+        "duration" : 92637
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "14a6a2085d69d775",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1590744617936,
+        "stop" : 1590744678212,
+        "duration" : 60276
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "7c5fe6858f60a305",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744308313,
+        "stop" : 1590744332942,
+        "duration" : 24629
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "4f90d052d1e99cf1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590577825203,
+        "stop" : 1590577916980,
+        "duration" : 91777
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Logout appplication",
+      "uid" : "fada0db900e975c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591009052871,
+        "stop" : 1591009075722,
+        "duration" : 22851
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "7f93daacb3a12533",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
         "start" : 1590573533136,
         "stop" : 1590573634077,
         "duration" : 100941
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "86dc402729f0077a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744458881,
+        "stop" : 1590744510741,
+        "duration" : 51860
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "228176ba14f64d4e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590576489073,
+        "stop" : 1590576552980,
+        "duration" : 63907
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "b69a446abbf37089",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590587110365,
+        "stop" : 1590587219248,
+        "duration" : 108883
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "6750e75fd91c7182",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591008975994,
+        "stop" : 1591008998925,
+        "duration" : 22931
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "cf3f22afabaae831",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590744063146,
+        "stop" : 1590744102445,
+        "duration" : 39299
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "f0f298ceba762d2e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590743907595,
+        "stop" : 1590743965734,
+        "duration" : 58139
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Log into appplication",
+      "uid" : "d1a1002c627ad833",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591007540416,
+        "stop" : 1591007709738,
+        "duration" : 169322
       },
       "flaky" : false,
       "newFailed" : false,

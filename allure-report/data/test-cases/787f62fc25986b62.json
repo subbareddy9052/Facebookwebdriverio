@@ -1,12 +1,12 @@
 {
-  "uid" : "ff7d852ebcda4450",
-  "name" : "Log into appplication",
-  "fullName" : "Test using Webdriverio.Log into appplication",
-  "historyId" : "b3354c421735186559e07947772acfe5",
+  "uid" : "787f62fc25986b62",
+  "name" : "HomePage appplication",
+  "fullName" : "Test using Webdriverio.HomePage appplication",
+  "historyId" : "6ae371ba6382748f57c6733d77a5e624",
   "time" : {
-    "start" : 1590577415409,
-    "stop" : 1590577511569,
-    "duration" : 96160
+    "start" : 1591008998925,
+    "stop" : 1591009052871,
+    "duration" : 53946
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -32,7 +32,7 @@
     "value" : "Test using Webdriverio"
   }, {
     "name" : "testMethod",
-    "value" : "Log into appplication"
+    "value" : "HomePage appplication"
   }, {
     "name" : "package",
     "value" : "Test using Webdriverio"
@@ -45,12 +45,14 @@
     "value" : "chrome"
   } ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ff7d852ebcda4450.json",
+  "source" : "787f62fc25986b62.json",
   "parameterValues" : [ "chrome" ]
 }

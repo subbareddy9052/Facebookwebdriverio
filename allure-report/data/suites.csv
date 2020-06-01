@@ -1,2 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed May 27 16:53:08 IST 2020","Wed May 27 16:54:41 IST 2020","92637","","Test using Webdriverio","","Test using Webdriverio","Log into appplication","Log into appplication",""
+"passed","Mon Jun 01 16:26:38 IST 2020","Mon Jun 01 16:27:32 IST 2020","53946","","Test using Webdriverio","","Test using Webdriverio","HomePage appplication","HomePage appplication",""
+"passed","Mon Jun 01 16:26:15 IST 2020","Mon Jun 01 16:26:38 IST 2020","22931","","Test using Webdriverio","","Test using Webdriverio","Log into appplication","Log into appplication",""
+"passed","Mon Jun 01 16:27:32 IST 2020","Mon Jun 01 16:27:55 IST 2020","22851","","Test using Webdriverio","","Test using Webdriverio","Logout appplication","Logout appplication",""

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Test_using_Webdriverio" timestamp="2020-06-01T16:26:15" time="99.73" tests="3" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="Test using Webdriverio"/>
+      <property name="capabilities" value="chrome.83_0_4103_61.windows"/>
+      <property name="file" value=".\specs\Test_runner.js"/>
+    </properties>
+    <testcase classname="chrome.83_0_4103_61.windows.Test_using_Webdriverio" name="Log_into_appplication" time="22.93"/>
+    <testcase classname="chrome.83_0_4103_61.windows.Test_using_Webdriverio" name="HomePage_appplication" time="53.946"/>
+    <testcase classname="chrome.83_0_4103_61.windows.Test_using_Webdriverio" name="Logout_appplication" time="22.851"/>
+  </testsuite>
+</testsuites>

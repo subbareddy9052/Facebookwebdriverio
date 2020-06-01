@@ -20,6 +20,14 @@ describe("Test using Webdriverio", function(){
     browser.pause(3000);
     Login.login_button.click();
     browser.pause(2000);
+    }
+     catch(err) {
+        console.log("Exception is :"+err);
+    }});
+    it("HomePage appplication",function(){
+        try{
+
+        
      Homepagee.more.click();
     browser.pause(5000);
     Homepagee.Groups.click();
@@ -29,25 +37,29 @@ describe("Test using Webdriverio", function(){
     Homepagee.Name_Group.setValue('Welcome To Group');
     browser.pause(5000);
     Homepagee.add_Members.setValue(siteCredentials.name);
+    Homepagee.addname.click();
      browser.pause(5000);
-    Homepagee.Add_Groups.click();
+    Homepagee.SelectPrivacy.click();
     browser.pause(5000);
+    Homepagee.addprivacy.click();
+    
     
     Homepagee.Create_group.click();
+}
+catch(err) {
+    console.log("Exception is :"+err);
+}
+        });
+        it("Logout appplication",function(){
+            try{
      browser.pause(6000);
     Logouut.Logout.click();
     browser.pause(5000);
     Logouut.Logout_button.click();
-    browser.pause(2000);
-
-    }
-    catch(err) {
-        console.log("Exception is :"+err);
-    }
-    finally{
-        console.log("its always executed.........");
-    }
-
-    
+    browser.pause(2000);  
+}
+catch(err) {
+    console.log("Exception is :"+err);
+}
     });
 });

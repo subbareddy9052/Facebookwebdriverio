@@ -1,12 +1,12 @@
 {
-  "uid" : "4633caf5ae68d3c",
+  "uid" : "b69a446abbf37089",
   "name" : "Log into appplication",
   "fullName" : "Test using Webdriverio.Log into appplication",
   "historyId" : "b3354c421735186559e07947772acfe5",
   "time" : {
-    "start" : 1590577825203,
-    "stop" : 1590577916980,
-    "duration" : 91777
+    "start" : 1590587110365,
+    "stop" : 1590587219248,
+    "duration" : 108883
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -51,6 +51,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4633caf5ae68d3c.json",
+  "source" : "b69a446abbf37089.json",
   "parameterValues" : [ "chrome" ]
 }
